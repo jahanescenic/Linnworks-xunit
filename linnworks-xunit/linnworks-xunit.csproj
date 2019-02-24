@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\Jenkins\phase-1-unit-test-frontend\LinnworksTest\LinnworksTest.csproj" />
+    <ProjectReference Include="D:\Jenkins\phase-1-unit-test-frontend\linnworks-app\LinnworksTest\LinnworksTest.csproj" />
   </ItemGroup>
 
 </Project>
